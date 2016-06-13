@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- Login Screen -->
+    <string name="screen_login_title">Login</string>
+    <string name="screen_login_username_hint">Username</string>
+    <string name="screen_login_password_hint">Password</string>
+    <string name="label_login_remember_user">   Remember me.</string>
+    <string name="screen_login_button_signin">Sign in</string>
+    <string name="screen_login_button_register">Register</string>
+    <string name="screen_login_information_label">Please use the same username and password that you registered with at the survey website. If you have not yet registered an account at the website, please do so and then log in to the app.</string>
+    <!-- Alert shown on screen when user tries to use a different Username from the one he/she used to login before -->
+    <string name="dialog_username_change_title">Username Changed</string>
+    <string name="dialog_username_change_msg">* If you change the Username you will not be able to synchronize the rest of your data and the previous data will be deleted.</string>
+
+</resources>

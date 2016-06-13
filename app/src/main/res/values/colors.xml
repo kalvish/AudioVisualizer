@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="gray_light">#BFBFBF</color>
+    <color name="red">#CC0000</color>
+    <color name="grey">#646464</color>
+    <!-- 	<color name="fms_red">#D50F31</color> -->
+    <color name="fms_red">#16A187</color>  <!--<color name="fms_red">#80ae48</color>-->
+    <!-- 	<color name="fms_light_red">#E6524D</color> -->
+    <color name="fms_light_red">#16A187</color> <!--<color name="fms_light_red">#80ae48</color> -->
+    <color name="fms_green">#16A187</color>  <!--<color name="fms_green">#80ae48</color>-->
+    <color name="fms_gray">#D7D7D7</color>
+    <color name="fms_beige">#EFECE7</color>
+    <color name="fms_black1">#3C3C3B</color>
+    <color name="fms_white">#FFFFFF</color>
+    <color name="fms_theme_color">#16A187</color>  <!--<color name="fms_theme_color">#80ae48</color>-->
+    <color name="fms_theme_color_pressed">#6616A187</color> <!--<color name="fms_theme_color_pressed">#6680ae48</color>-->
+
+
+    <color name="av_color1">#f7b09e</color>
+    <color name="av_color2">#f0979b</color>
+    <color name="av_color3">#e36a97</color>
+    <color name="av_color4">#bc428b</color>
+
+    <color name="av_color_bg">#8f367c</color>
+
+    <array name="av_colors">
+        <item>@color/av_color4</item>
+        <item>@color/av_color3</item>
+        <item>@color/av_color2</item>
+        <item>@color/av_color1</item>
+    </array>
+</resources>

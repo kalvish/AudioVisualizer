@@ -1,0 +1,35 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="screen_width_margin">20dp</dimen>
+    <dimen name="screen_height_margin">20dp</dimen>
+    <dimen name="newgen_left_margin">10dp</dimen>
+    <!-- Default height of an action bar. -->
+    <dimen name="fms__action_bar_default_height">48dip</dimen>
+    <!-- Vertical padding around action bar icons. -->
+    <dimen name="fms__action_bar_icon_vertical_padding">8dip</dimen>
+    <!-- Text size for action bar titles -->
+    <dimen name="fms__action_bar_title_text_size">9dp</dimen>
+    <!-- Text size for action bar subtitles -->
+    <dimen name="fms__action_bar_subtitle_text_size">14dp</dimen>
+    <!-- Top margin for action bar subtitles -->
+    <dimen name="fms__action_bar_subtitle_top_margin">-3dp</dimen>
+    <!-- Bottom margin for action bar subtitles -->
+    <dimen name="fms__action_bar_subtitle_bottom_margin">5dip</dimen>
+
+
+    <dimen name="fms__text_left_margin">10dp</dimen>
+    <dimen name="fms__text_right_margin">10dp</dimen>
+    <dimen name="fms__text_top_margin">5dp</dimen>
+    <dimen name="fms__text_bottom_margin">5dp</dimen>
+    <dimen name="fms_text_padding_left">10dip</dimen>
+
+    <dimen name="fms_settings_text_size">7sp</dimen>
+
+
+    <dimen name="bubble_size">25dp</dimen>
+    <dimen name="wave_height">60dp</dimen>
+    <dimen name="footer_height">170dp</dimen>
+</resources>
